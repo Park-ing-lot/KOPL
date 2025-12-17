@@ -1,5 +1,5 @@
 # KOPL
-This is a Pytorch implementation of KOPL [(paper link)](https://arxiv.org/abs/2507.04018).
+This is a Pytorch implementation of KOPL. [(paper link)](https://arxiv.org/abs/2507.04018)
 
 ## Get Background Embeddings
 You first need to download SISG(jm) background word embeddings which you can get [here](https://drive.google.com/file/d/10duKoWlUGyhyWvWQWIizbcfLFCxJ0zjD/view?usp=sharing).
